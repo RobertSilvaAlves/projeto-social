@@ -1,41 +1,39 @@
 
-# 🤝 Projeto Social - Página Institucional
+# 🌐 Projeto Rede Social - Simulador de Redes Sociais
+Criado na aula do [Curso em Video](https://github.com/cursoemvideo) de HTML5 e CSS3
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![Responsivo](https://img.shields.io/badge/RESPONSIVO-SIM-22d4fd?style=for-the-badge)](#)
 
-Este projeto é uma página institucional de um projeto social, com objetivo de apresentar a missão, visão e valores de uma iniciativa comunitária ou ONG fictícia.
+Este projeto é uma simulação visual de interações com redes sociais, desenvolvido com HTML e CSS. Ao clicar nos ícones de redes sociais, uma imagem de celular simula o conteúdo da respectiva rede. Ao final, há um link real que direciona para a rede social escolhida.
+
+![projeto-social-ebon vercel app_](https://github.com/user-attachments/assets/fa2a324e-2d60-4ced-87a4-0a058f718d75)
+
+## 🧠 Objetivo
+
+Demonstrar o uso de:
+
+- Links com âncoras direcionando para seções ou URLs externas
+- Manipulação de imagens simulando interface de celular
+- Ícones clicáveis representando redes sociais
+- Layout visualmente agradável e responsivo
 
 ## 🖥️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - Flexbox
-- Layout responsivo com media queries
+- Animações simples com CSS
 
 ## 📁 Estrutura de Arquivos
 
 ```
-├── index.html            # Página principal do projeto
-├── style.css             # Estilo da página
-├── imagens/              # Imagens utilizadas no layout
+├── index.html            # Página principal
+├── style.css             # Estilo do projeto
+├── imagens/              # Ícones e imagens de celular
 ```
 
-## 📱 Responsividade
-
-O site foi desenvolvido com layout responsivo, adaptando-se a diferentes tamanhos de tela (celulares, tablets e desktops), garantindo uma boa experiência de navegação.
-
-## 🚀 Como publicar no GitHub Pages
-
-1. Faça um fork ou clone do projeto.
-2. Envie os arquivos para o seu repositório no GitHub.
-3. Acesse `Settings > Pages`.
-4. Em "Source", escolha a branch `main` e a pasta `/root`.
-5. Clique em **Save**.
-6. A página será publicada em:  
-   `https://seu-usuario.github.io/projeto-social`
-
+## 🚀 [Acesse e veja aqui](https://projeto-social-ebon.vercel.app/)
 ---
 
 ## 👤 Desenvolvido por
@@ -45,4 +43,4 @@ O site foi desenvolvido com layout responsivo, adaptando-se a diferentes tamanho
 
 ---
 
-> Projeto criado com fins educacionais.
+> Projeto criado para praticar HTML e CSS com foco em interações visuais simples.
